@@ -1,0 +1,9 @@
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netstandard2.0\CoverageReport.Domain.deps.json
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netstandard2.0\CoverageReport.Domain.dll
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netstandard2.0\CoverageReport.Domain.pdb
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.csprojAssemblyReference.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.csproj.CoreCompileInputs.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.AssemblyInfoInputs.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.AssemblyInfo.cs
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.dll
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netstandard2.0\CoverageReport.Domain.pdb

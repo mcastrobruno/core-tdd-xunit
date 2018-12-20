@@ -1,0 +1,17 @@
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.csprojAssemblyReference.cache
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.csproj.CoreCompileInputs.cache
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.AssemblyInfoInputs.cache
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.AssemblyInfo.cs
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Test.deps.json
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Test.runtimeconfig.json
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Test.runtimeconfig.dev.json
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Test.dll
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Test.pdb
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Domain.dll
+D:\CoverageReport\CoverageReport.Test\bin\Debug\netcoreapp2.1\CoverageReport.Domain.pdb
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.csproj.CopyComplete
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.dll
+D:\CoverageReport\CoverageReport.Test\obj\Debug\netcoreapp2.1\CoverageReport.Test.pdb

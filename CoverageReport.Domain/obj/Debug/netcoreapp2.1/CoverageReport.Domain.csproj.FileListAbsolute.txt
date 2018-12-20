@@ -1,0 +1,9 @@
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netcoreapp2.1\CoverageReport.Domain.deps.json
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netcoreapp2.1\CoverageReport.Domain.dll
+D:\CoverageReport\CoverageReport.Domain\bin\Debug\netcoreapp2.1\CoverageReport.Domain.pdb
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.csprojAssemblyReference.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.csproj.CoreCompileInputs.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.AssemblyInfoInputs.cache
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.AssemblyInfo.cs
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.dll
+D:\CoverageReport\CoverageReport.Domain\obj\Debug\netcoreapp2.1\CoverageReport.Domain.pdb
